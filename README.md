@@ -27,7 +27,7 @@ python web_ui.py
 
 2. Open your browser and navigate to:
 ```
-http://localhost:5000
+http://localhost:5002
 ```
 
 3. Use the web interface to:
