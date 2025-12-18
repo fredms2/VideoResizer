@@ -1,4 +1,4 @@
-# Video Resizer Web UI in Local
+# Video Resizer Web UI
 
 A simple web interface for resizing MP4 videos locally.
 
