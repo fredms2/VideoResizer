@@ -1,6 +1,6 @@
 # Video Resizer Web UI
 
-A simple web interface for resizing MP4 videos.
+A simple web interface for resizing MP4 videos locally.
 
 ## Installation
 
